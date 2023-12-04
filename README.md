@@ -4,7 +4,7 @@
 
 ## Demo
 
-<https://dewanakl.github.io/undangan/?to=Teman+teman+semua>
+<https://whif-whaf.github.io/momocat.github.io/?to=Teman+teman+semua>
 
 ### Tech stack
 
