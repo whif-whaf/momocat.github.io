@@ -281,7 +281,7 @@ const audio = (() => {
             audio.autoplay = true;
             audio.muted = false;
             audio.loop = true;
-            audio.volume = 1;
+            audio.volume = 0.2;
         }
 
         return audio;
