@@ -1,4 +1,4 @@
-# Template website undangan pernikahan sederhana
+Undangan Farewell Party & LLPA
 
 ![Thumbnail](/assets/images/cat.jpeg)
 
