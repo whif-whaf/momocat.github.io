@@ -1,10 +1,10 @@
 # Template website undangan pernikahan sederhana
 
-![Thumbnail](/assets/images/banner.png)
+![Thumbnail](/assets/images/cat.jpeg)
 
 ## Demo
 
-<https://whif-whaf.github.io/momocat.github.io/?to=Teman+teman+semua>
+<https://whif-whaf.github.io/momocat.github.io/>
 
 ### Tech stack
 
